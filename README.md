@@ -1,4 +1,4 @@
-# Angular-Classes
+<img src="github-header-image.png">
 
 Este repositório é usado para armazenar projetos relacionados ao aprendizado de Angular e TypeScript.
 
