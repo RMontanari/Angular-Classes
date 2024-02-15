@@ -1,7 +1,5 @@
 <img src="github-header-image.png">
 
-Este repositório é usado para armazenar projetos relacionados ao aprendizado de Angular e TypeScript.
-
 ## Sobre:
 
 Este repositório contém projetos desenvolvidos durante o processo de aprendizado de Angular e TypeScript. Os projetos são destinados a praticar conceitos básicos e avançados dessas tecnologias.
